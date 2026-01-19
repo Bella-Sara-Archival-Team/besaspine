@@ -8,7 +8,7 @@ The files in this folder are used for the horse sprites in the recreation of the
 - [Dress Up Horse](https://github.com/Bella-Sara-Archival-Team/besaspine/tree/main/neocities/phasergames/stables/Dress%20Up%20Horse) includes the files for the dress up horse. Note that this is a VERY complex file since it includes all the different dress up options and is split into parts for animation
 
 ## Horse Parts
-Each horse uses a consistent naming scheme so it's easier to reuse existing spine files when adding new horses. The following file names should be used whenever possible:
+Each set of horse parts uses a consistent naming scheme so it's easier to reuse existing spine files when adding new horses. The following file names should be used whenever possible:
 - All.png - the entire horse (shows where each part should go)
 - Apple.png - the apple (or other treat) image. This can be copied from Peter's folder for land and air horses, or from Nori's folder for water horses if needed
 - Body.png
