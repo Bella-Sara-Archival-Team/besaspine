@@ -35,4 +35,4 @@ Each set of horse parts uses a consistent naming scheme so it's easier to reuse 
 - *WingL.png, WingR.png* - the wings for horses with wings
 - *Tail.png, Tail2.png, Tail3.png, TailFin.png* - the tail sections for a hippocampus
 
-Any other additional images (e.g. for a bridle, saddle, harness, cloak, &c.) can be named however makes sense. Note that any accessories do need to be isolated if they are over the head, neck, body, upper left, or upper right leg since the dirt layer needs to appear over the body but under the accessory. Certain parts (such as sparkles, reins or tassles) may also need to be separated so they may be animated with their own movement.
+Any other additional images (e.g. for a bridle, saddle, harness, cloak, &c.) can be named however makes sense. Note that any accessories do need to be isolated if they are over the head, neck, body, upper front left, or upper back left leg since the dirt layer needs to appear over the body but under the accessory. Certain parts (such as sparkles, reins or tassles) may also need to be separated so they may be animated with their own movement.
