@@ -1,4 +1,4 @@
-The files in this folder are used for the horse sprites in the recreation of the stables. A document for tracking the progress of stable sprite recreation can be found [here](https://docs.google.com/spreadsheets/d/1QgKKvr9kadI8oqGTSF6VBwhwczXinlrxPxuNb-B3axg/edit?gid=0#gid=0)
+The files in this folder are used for the horse sprites in the recreation of the stables. A document for tracking the progress of stable sprite recreation can be found [here](https://docs.google.com/spreadsheets/d/1QgKKvr9kadI8oqGTSF6VBwhwczXinlrxPxuNb-B3axg/edit?usp=sharing) and a guide for recreating sprites can be found [here](https://docs.google.com/document/d/1kyHGYg63570dLtasXB3KsgDX0GgGryqy3tYj9TxincE/edit?usp=sharing)
 
 ## Folders
 - [Cached Horses](https://github.com/Bella-Sara-Archival-Team/besaspine/tree/main/neocities/phasergames/stables/Cached%20Stable%20Horses) are the horses that have been extracted from cached stable horse files. This is done by opening the file in jpexs and exporting the relevant sprite images. The .swf file for the horse is also included in their folder for quick reference.
