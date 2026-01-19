@@ -1,0 +1,55 @@
+ID, Name, Type
+22, Fiona, Land
+30, Hercules, Land
+33, Jewel, Land
+60, Peter, Land
+111, Viking, Land
+161, Magic, Land
+214, Aphaia, Land
+221, Ceres, Land
+222, Clio, Land
+233, Gaia, Land
+235, Hecate, Land
+236, Hera, Land
+240, Juno, Land
+248, Persephone, Land
+256, Vesta, Land
+267, Generosity, Land
+355, Savros, Land
+361, Virstan, Land
+363, Zephan, Land (small)
+369, Beran, Land
+376, Faith, Land
+377, Faxon, Land
+380, Ivy, Land
+387, Mellonie, Land
+403, Chitra, Land
+407, Falcha, Land
+489a, Ceratos, Land (small)
+532, Epona, Land
+547, Thunder, Land
+597, Starunna, Land
+
+451, Calyx, Land Foal
+
+
+02, Angel, Air
+245, Nike, Air
+332, Blossom, Air
+358, Socorro, Air
+384, Kendra, Air
+386, Lillova, Air
+457a, Amor, Air
+510, Icarus, Air
+556, Anemone, Air
+565, Cosima, Air
+601, Uranus, Air
+
+457, Dart, Air Foal
+469, Starfrost, Air Foal
+
+
+84, Tiffi, Water
+349, Nori, Water
+350, Nuala, Water
+381, Jaida, Water
