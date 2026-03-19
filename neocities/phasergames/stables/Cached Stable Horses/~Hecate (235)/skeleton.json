@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "kC1YdV/gtMU", "spine": "4.2.43", "x": -249.5, "y": -164.97, "width": 544.56, "height": 334.74 },
+"skeleton": { "hash": "Kh/Qnshs/D0", "spine": "4.2.43", "x": -249.5, "y": -164.97, "width": 544.56, "height": 334.74 },
 "bones": [
 	{ "name": "root", "length": 40, "rotation": -90, "x": 68.7, "y": 65.07 },
 	{ "name": "Body", "parent": "root", "length": 160, "rotation": -83.91, "x": 25.41, "y": -6.03 },
@@ -44,11 +44,7 @@
 	{ "name": "Head", "bone": "Head", "attachment": "Head" },
 	{ "name": "HeadJaw", "bone": "Jaw", "attachment": "HeadJaw" },
 	{ "name": "Apple", "bone": "Apple", "attachment": "Apple" },
-	{ "name": "HeadUpper", "bone": "Head", "attachment": "HeadUpper" },
-	{ "name": "Eye", "bone": "Head", "attachment": "Eye1" },
-	{ "name": "Mane", "bone": "Mane", "attachment": "Mane" },
-	{ "name": "Forelock", "bone": "Head", "attachment": "Forelock" },
-	{ "name": "Ear", "bone": "Ear", "attachment": "Ear" }
+	{ "name": "HeadUpper", "bone": "Head", "attachment": "HeadUpper" }
 ],
 "skins": [
 	{
@@ -59,23 +55,6 @@
 			},
 			"Body": {
 				"Body": { "x": 78.76, "y": -5.8, "rotation": 173.94, "width": 285, "height": 152 }
-			},
-			"Ear": {
-				"Ear": { "x": 9.15, "y": -2.82, "rotation": -96.47, "width": 11, "height": 22 }
-			},
-			"Eye": {
-				"Eye1": {
-					"path": "Eye",
-					"x": 5.05,
-					"y": -1.44,
-					"rotation": 135.44,
-					"width": 23,
-					"height": 16,
-					"sequence": { "count": 5 }
-				}
-			},
-			"Forelock": {
-				"Forelock": { "x": 17.71, "y": -22.01, "rotation": 135.71, "width": 57, "height": 68 }
 			},
 			"Head": {
 				"Head": { "x": 21.66, "y": 0.4, "rotation": 135.56, "width": 117, "height": 116 }
@@ -109,9 +88,6 @@
 			},
 			"LowerHR": {
 				"LowerHR": { "x": 25.78, "y": -0.83, "rotation": 93.17, "width": 29, "height": 89 }
-			},
-			"Mane": {
-				"Mane": { "x": 50.38, "y": 15.85, "rotation": -144.05, "width": 144, "height": 128 }
 			},
 			"Neck": {
 				"Neck": { "x": 48.54, "y": 7.51, "rotation": -134.84, "width": 185, "height": 139 }
@@ -327,18 +303,6 @@
 					{ "time": 2.6 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.2333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.4, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"ear_twitch": {
@@ -354,18 +318,6 @@
 				"translate": [
 					{ "time": 0.6667 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.1667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.3333, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -589,18 +541,6 @@
 					{ "time": 2.6667 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 1.0333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 1.2, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"eat_food": {
@@ -766,18 +706,6 @@
 					{ "time": 2.5 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.9333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 1.1, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"flank_twitch": {
@@ -893,18 +821,6 @@
 					{ "time": 2 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 1.4, "mode": "loop", "delay": 0.0417 },
-							{ "time": 1.5667, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"head_shake": {
@@ -927,18 +843,6 @@
 					{ "time": 0.9333, "x": 1.95, "y": -1.82 },
 					{ "time": 1.8333 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.3667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.5333, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -992,18 +896,6 @@
 					{ "time": 2.6667 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 2.0667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 2.2333, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"idle": {
@@ -1012,18 +904,6 @@
 				"translate": [
 					{ "time": 0.4 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.1667, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1064,18 +944,6 @@
 					{ "time": 0.4, "x": 3.51, "y": 2.31 },
 					{ "time": 0.6333 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.7667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.9333, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1211,18 +1079,6 @@
 					{ "time": 0.5333, "x": -0.04, "y": -0.35 },
 					{ "time": 1 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.4, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.5667, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1808,18 +1664,6 @@
 					{ "time": 1.5333 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.6667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.8333, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"shift_weight": {
@@ -1995,18 +1839,6 @@
 					{ "time": 1.6667 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.1667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.3333, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"tail_swish": {
@@ -2017,18 +1849,6 @@
 					{ "time": 0.3667, "value": 1.48 },
 					{ "time": 0.6667 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.1333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.3, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	}

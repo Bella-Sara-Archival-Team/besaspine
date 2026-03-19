@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "w+LlLSB+OYI", "spine": "4.2.43", "x": -275.81, "y": -166.47, "width": 570.87, "height": 352.77 },
+"skeleton": { "hash": "tcS1mRZO8sQ", "spine": "4.2.43", "x": -275.81, "y": -166.47, "width": 570.87, "height": 352.77 },
 "bones": [
 	{ "name": "root", "length": 40, "rotation": -90, "x": 68.7, "y": 65.07 },
 	{ "name": "Body", "parent": "root", "length": 160, "rotation": -83.91, "x": 25.41, "y": -6.03 },
@@ -43,12 +43,10 @@
 	{ "name": "HeadJaw", "bone": "Jaw", "attachment": "HeadJaw" },
 	{ "name": "Apple", "bone": "Apple", "attachment": "Apple" },
 	{ "name": "HeadUpper", "bone": "Head", "attachment": "HeadUpper" },
-	{ "name": "Eye", "bone": "Head", "attachment": "Eye1" },
-	{ "name": "Mane", "bone": "Mane", "attachment": "Mane" },
-	{ "name": "Forelock", "bone": "Head", "attachment": "Forelock" },
-	{ "name": "Ear", "bone": "Ear", "attachment": "Ear" },
-	{ "name": "Neck2", "bone": "Neck", "attachment": "Neck Decor" },
-	{ "name": "Necklace", "bone": "Necklace", "attachment": "Necklace" }
+	{ "name": "Eye", "bone": "Head" },
+	{ "name": "Mane", "bone": "Mane" },
+	{ "name": "Forelock", "bone": "Head" },
+	{ "name": "Necklace", "bone": "Necklace" }
 ],
 "skins": [
 	{
@@ -59,33 +57,6 @@
 			},
 			"Body": {
 				"Body": { "x": 75.41, "y": 1.83, "rotation": 173.91, "width": 237, "height": 107 }
-			},
-			"Ear": {
-				"Ear": { "x": 7.34, "y": -2.67, "rotation": -96.61, "width": 12, "height": 26 }
-			},
-			"Eye": {
-				"Eye1": {
-					"path": "Eye",
-					"x": 3.45,
-					"y": -2.95,
-					"scaleX": 1.2,
-					"scaleY": 1.2,
-					"rotation": 495.68,
-					"width": 27,
-					"height": 19,
-					"sequence": { "count": 5 }
-				}
-			},
-			"Forelock": {
-				"Forelock": {
-					"x": -30.21,
-					"y": 191.85,
-					"scaleX": 0.8,
-					"scaleY": 0.8,
-					"rotation": 135.71,
-					"width": 639,
-					"height": 438
-				}
 			},
 			"Head": {
 				"Head": {
@@ -160,17 +131,6 @@
 					"height": 137
 				}
 			},
-			"Mane": {
-				"Mane": {
-					"x": -71.22,
-					"y": 26.54,
-					"scaleX": 0.85,
-					"scaleY": 0.85,
-					"rotation": -144.05,
-					"width": 603,
-					"height": 413
-				}
-			},
 			"ManeBack": {
 				"Mane Back": {
 					"x": 31.63,
@@ -184,28 +144,6 @@
 			},
 			"Neck": {
 				"Neck": { "x": 44.56, "y": -8.39, "rotation": -134.14, "width": 156, "height": 124 }
-			},
-			"Neck2": {
-				"Neck Decor": {
-					"x": -68.6,
-					"y": -16.98,
-					"scaleX": 0.85,
-					"scaleY": 0.85,
-					"rotation": -134.14,
-					"width": 603,
-					"height": 413
-				}
-			},
-			"Necklace": {
-				"Necklace": {
-					"x": 16.25,
-					"y": 74.99,
-					"scaleX": 0.8,
-					"scaleY": 0.8,
-					"rotation": 140.42,
-					"width": 639,
-					"height": 438
-				}
 			},
 			"Shadow1": {
 				"Shadow1": { "x": 171.03, "y": 21.35, "rotation": 90, "width": 410, "height": 38 }
@@ -448,18 +386,6 @@
 					{ "time": 2.6 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.2333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.4, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"ear_twitch": {
@@ -475,18 +401,6 @@
 				"translate": [
 					{ "time": 0.6667 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.1667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.3333, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -702,18 +616,6 @@
 					{ "time": 2.6667 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 1.0333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 1.2, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"eat_food": {
@@ -879,18 +781,6 @@
 					{ "time": 2.5 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.9333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 1.1, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"flank_twitch": {
@@ -1006,18 +896,6 @@
 					{ "time": 2 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 1.4, "mode": "loop", "delay": 0.0417 },
-							{ "time": 1.5667, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"head_shake": {
@@ -1040,18 +918,6 @@
 					{ "time": 0.9333, "x": 1.95, "y": -1.82 },
 					{ "time": 1.8333 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.3667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.5333, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1105,18 +971,6 @@
 					{ "time": 2.6667 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 2.0667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 2.2333, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"idle": {
@@ -1125,18 +979,6 @@
 				"translate": [
 					{ "time": 0.4 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.1667, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1177,18 +1019,6 @@
 					{ "time": 0.4, "x": 3.51, "y": 2.31 },
 					{ "time": 0.6333 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.7667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.9333, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1306,18 +1136,6 @@
 					{ "time": 0.5333, "x": -0.04, "y": -0.35 },
 					{ "time": 1 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.4, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.5667, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	},
@@ -1786,18 +1604,6 @@
 					{ "time": 1.5333 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.6667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.8333, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"shift_weight": {
@@ -1928,18 +1734,6 @@
 					{ "time": 1.6667 }
 				]
 			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.1667, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.3333, "mode": "onceReverse" }
-						]
-					}
-				}
-			}
 		}
 	},
 	"tail_swish": {
@@ -1950,18 +1744,6 @@
 					{ "time": 0.3667, "value": 1.48 },
 					{ "time": 0.6667 }
 				]
-			}
-		},
-		"attachments": {
-			"default": {
-				"Eye": {
-					"Eye1": {
-						"sequence": [
-							{ "time": 0.1333, "mode": "loop", "delay": 0.0417 },
-							{ "time": 0.3, "mode": "onceReverse" }
-						]
-					}
-				}
 			}
 		}
 	}
