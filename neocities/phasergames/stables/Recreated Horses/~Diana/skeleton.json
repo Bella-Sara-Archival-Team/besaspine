@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "tcS1mRZO8sQ", "spine": "4.2.43", "x": -275.81, "y": -166.47, "width": 570.87, "height": 352.77 },
+"skeleton": { "hash": "glQlvknH5Lw", "spine": "4.2.43", "x": -276.24, "y": -166.47, "width": 571.3, "height": 352.77 },
 "bones": [
 	{ "name": "root", "length": 40, "rotation": -90, "x": 68.7, "y": 65.07 },
 	{ "name": "Body", "parent": "root", "length": 160, "rotation": -83.91, "x": 25.41, "y": -6.03 },
@@ -42,11 +42,7 @@
 	{ "name": "Head", "bone": "Head", "attachment": "Head" },
 	{ "name": "HeadJaw", "bone": "Jaw", "attachment": "HeadJaw" },
 	{ "name": "Apple", "bone": "Apple", "attachment": "Apple" },
-	{ "name": "HeadUpper", "bone": "Head", "attachment": "HeadUpper" },
-	{ "name": "Eye", "bone": "Head" },
-	{ "name": "Mane", "bone": "Mane" },
-	{ "name": "Forelock", "bone": "Head" },
-	{ "name": "Necklace", "bone": "Necklace" }
+	{ "name": "HeadUpper", "bone": "Head", "attachment": "HeadUpper" }
 ],
 "skins": [
 	{
@@ -174,7 +170,7 @@
 				"UpperFR": { "x": 35.28, "y": -1.2, "rotation": 84.15, "width": 29, "height": 83 }
 			},
 			"UpperHL": {
-				"UpperHL": { "x": 22.52, "y": -5.43, "rotation": 66.96, "width": 97, "height": 147 }
+				"UpperHL": { "x": 23.81, "y": -5.98, "rotation": 66.96, "width": 97, "height": 147 }
 			},
 			"UpperHR": {
 				"UpperHR": {

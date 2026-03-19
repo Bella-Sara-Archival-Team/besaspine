@@ -1,5 +1,14 @@
 {
-"skeleton": { "hash": "vXpQX9AoyOg", "spine": "4.2.43", "x": -206.29, "y": -135.07, "width": 350, "height": 408.66 },
+"skeleton": {
+	"hash": "QuboR56F2MI",
+	"spine": "4.2.43",
+	"x": -206.29,
+	"y": -135.07,
+	"width": 350,
+	"height": 408.66,
+	"images": "./Parts/",
+	"audio": "C:/Users/antsg/OneDrive/Documents/Bella Sara Shennanigans/stables game/images/horse/peter"
+},
 "bones": [
 	{ "name": "root", "length": 40, "rotation": -90, "x": 68.7, "y": 65.07 },
 	{ "name": "Body", "parent": "root", "length": 160, "rotation": -107, "x": 23.77, "y": -7.2 },
