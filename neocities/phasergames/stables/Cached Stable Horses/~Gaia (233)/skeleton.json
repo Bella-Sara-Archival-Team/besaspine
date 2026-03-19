@@ -1,5 +1,14 @@
 {
-"skeleton": { "hash": "lag9h6nb2Wo", "spine": "4.2.43", "x": -249.5, "y": -164.97, "width": 544.56, "height": 364.8 },
+"skeleton": {
+	"hash": "PhY9uLjD9iw",
+	"spine": "4.2.43",
+	"x": -249.5,
+	"y": -164.97,
+	"width": 544.56,
+	"height": 364.8,
+	"images": "./Parts/",
+	"audio": "C:/Users/antsg/OneDrive/Documents/Bella Sara Shennanigans/stables game/images/horse/peter"
+},
 "bones": [
 	{ "name": "root", "length": 40, "rotation": -90, "x": 68.7, "y": 65.07 },
 	{ "name": "Body", "parent": "root", "length": 160, "rotation": -83.91, "x": 25.41, "y": -6.03 },
@@ -63,7 +72,7 @@
 				"HeadJaw": { "x": -26.54, "y": -8.59, "rotation": 136.03, "width": 117, "height": 116 }
 			},
 			"HeadUpper": {
-				"HeadUpper": { "x": 21.43, "y": 1.15, "rotation": 135.69, "width": 117, "height": 116 }
+				"HeadUpper": { "x": 20.73, "y": 0.43, "rotation": 135.69, "width": 117, "height": 116 }
 			},
 			"HoofFL": {
 				"HoofFL": { "x": 5.51, "y": 0.88, "rotation": 115.22, "width": 37, "height": 25 }
