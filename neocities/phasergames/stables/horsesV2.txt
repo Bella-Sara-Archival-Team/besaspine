@@ -1,0 +1,130 @@
+Land/Air (BASE: Aurora)
+- Custom
+  - Andromeda
+  - Potpourri
+- Cached
+  - Amor
+  - Anemone
+  - Angel
+  - Aphaia
+  - Beran
+  - Blossom
+  - Ceres
+  - Chitra
+  - Clio
+  - Cosima
+  - Epona
+  - Faith
+  - Falcha
+  - Faxon
+  - Fiona
+  - Gaia
+  - Generosity
+  - Hecate
+  - Hera
+  - Hercules
+  - Icarus
+  - Ivy
+  - Jewel
+  - Juno
+  - Kendra
+  - Lillova
+  - Magic
+  - Mellonie
+  - Nike
+  - Persephone
+  - Savros
+  - Socorro
+  - Starunna
+  - Thunder
+  - Uranus
+  - Vesta
+  - Viking
+  - Virstan
+- Cached Alt.
+  - Cantaro
+  - Colour
+  - Pegasus
+  - Sarah
+- Recreated
+  - Abenaki
+  - Achilles
+  - Aurora
+  - Bella
+  - Bello
+  - Bifrost
+  - Bosi
+  - Cupid
+  - Diana
+  - Dino
+  - Donn
+  - Echo
+  - Farfalla
+  - Firewalker
+  - Flora
+  - Ghost
+  - Halloween
+  - Honey
+  - Jupiter
+  - King
+  - Memory
+  - Mireldis
+  - Muskogee
+  - Nimiippuu
+  - Parlez
+  - Peter
+  - Rimfaxe
+  - Ronnie
+  - Rose
+  - Royce
+  - Sasha
+  - Serenity
+  - Skeleton (UNIQUE?)
+  - Sleipnir (UNIQUE?)
+  - Tsimshian
+  - Urd
+  - Zombie
+  
+Short Land/Air
+- Cached
+  - Ceratos
+  - Zephan
+ 
+Foal Land/Air (BASE: Prisma)
+- Cached
+  - Calyx
+  - Dart
+  - Starfrost
+- Recreated
+  - Briar
+  - Chromasia
+  - Helia
+  - Mistral
+  - Petal
+  - Pirouette
+  - Prisma
+ 
+Water Horse (BASE: Waterpearl)
+- Cached
+  - Jaida
+  - Nori
+  - Nuala
+- Recreated
+  - Obrylin
+  - Waterpearl
+  
+Hippocampus (BASE: Tiffi/Tlingit)
+- Cached
+  - Tiffi
+- Cached Alt.
+  - Wavebreaker (UNIQUE?)
+- Recreated
+  - Neptune
+  - Tlingit
+  - Triton
+  
+Foal Hippocampus
+- Recreated
+  - Brine
+  
+
