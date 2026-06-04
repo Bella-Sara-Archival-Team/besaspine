@@ -49,6 +49,7 @@ Land/Air (BASE: Aurora)
 - Recreated
   - Abenaki
   - Achilles
+  - Akama DONE
   - Aurora
   - Bella
   - Bello
@@ -113,7 +114,7 @@ Water Horse (BASE: Waterpearl)
   - Obrylin
   - Waterpearl
   
-Hippocampus (BASE: Tiffi/Tlingit)
+DONE Hippocampus (BASE: Tlingit)
 - Cached
   - Tiffi
 - Cached Alt.
