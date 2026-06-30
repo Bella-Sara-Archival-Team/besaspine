@@ -1,18 +1,18 @@
 Land/Air (BASE: Aurora)
 - Custom
-  - Andromeda
-  - Potpourri
+  - Andromeda (constant animation)
+  - Potpourri (constant animation)
 - Cached
-  - Amor
-  - Anemone
-  - Angel
+  - Amor DONE
+  - Anemone DONE
+  - Angel DONE
   - Aphaia
   - Beran
   - Blossom
   - Ceres
   - Chitra
   - Clio
-  - Cosima
+  - Cosima (constant animation)
   - Epona
   - Faith
   - Falcha
@@ -31,101 +31,108 @@ Land/Air (BASE: Aurora)
   - Lillova
   - Magic
   - Mellonie
-  - Nike
+  - Nike (UNIQUE?)
   - Persephone
   - Savros
   - Socorro
-  - Starunna
+  - Starunna (constant animation)
   - Thunder
   - Uranus
   - Vesta
   - Viking
   - Virstan
-- Cached Alt.
-  - Cantaro
-  - Colour
-  - Pegasus
-  - Sarah
+- DONE Cached Alt.
+  - Cantaro DONE
+  - Colour DONE
+  - Pegasus DONE
+  - Sarah DONE
 - Recreated
-  - Abenaki
-  - Achilles
+  - Abenaki DONE
+  - Achilles DONE
   - Akama DONE
-  - Aurora
-  - Bella
-  - Bello
-  - Bifrost
-  - Bosi
-  - Cupid
+  - Aurora DONE
+  - Bella DONE
+  - Bello DONE
+  - Bifrost DONE
+  - Bosi DONE
+  - Cupid DONE
   - Diana
-  - Dino
-  - Donn
-  - Echo
-  - Farfalla
-  - Firewalker
-  - Flora
-  - Ghost
-  - Halloween
-  - Honey
-  - Jupiter
-  - King
-  - Memory
-  - Mireldis
-  - Muskogee
-  - Nimiippuu
-  - Parlez
-  - Peter
-  - Rimfaxe
-  - Ronnie
-  - Rose
-  - Royce
-  - Sasha
-  - Serenity
-  - Skeleton (UNIQUE?)
-  - Sleipnir (UNIQUE?)
-  - Tsimshian
-  - Urd
-  - Zombie
+  - Dino DONE
+  - Donn DONE
+  - Echo DONE
+  - Farfalla DONE
+  - Firewalker DONE
+  - Flora (constant animation) DONE
+  - Ghost DONE
+  - Halloween DONE
+  - Honey DONE
+  - Jupiter DONE
+  - King DONE
+  - Lenape DONE
+  - Memory DONE
+  - Mireldis DONE
+  - Muskogee DONE
+  - Nimiippuu DONE
+  - Parlez DONE
+  - Peter DONE
+  - Rimfaxe DONE
+  - Rose DONE
+  - Royce DONE
+  - Sasha DONE
+  - Serenity DONE
+  - Skeleton (UNIQUE) DONE
+  - Sleipnir (UNIQUE) DONE
+  - Tsimshian DONE
+  - Urd DONE
+  - Zombie DONE
   
-Short Land/Air
+DONE Short Land/Air
 - Cached
-  - Ceratos
-  - Zephan
+  - Ceratos Done
+  - Zephan Done
  
 Foal Land/Air (BASE: Prisma)
 - Cached
   - Calyx
-  - Dart
-  - Starfrost
+  - Dart (constant animation)
+  - Starfrost (constant animation)
 - Recreated
   - Briar
   - Chromasia
   - Helia
-  - Mistral
+  - Mistral (constant animation)
   - Petal
   - Pirouette
-  - Prisma
+  - Prisma DONE
  
 Water Horse (BASE: Waterpearl)
 - Cached
-  - Jaida
-  - Nori
-  - Nuala
+  - Jaida DONE
+  - Nori DONE
+  - Nuala DONE
 - Recreated
-  - Obrylin
-  - Waterpearl
+  - Obrylin (UNIQUE) DONE
+  - Waterpearl DONE
   
 DONE Hippocampus (BASE: Tlingit)
 - Cached
-  - Tiffi
+  - Tiffi DONE
 - Cached Alt.
-  - Wavebreaker (UNIQUE?)
+  - Wavebreaker DONE - check and improve front legs/fins?
 - Recreated
-  - Neptune
-  - Tlingit
-  - Triton
+  - Neptune DONE
+  - Tlingit DONE
+  - Triton DONE
   
 Foal Hippocampus
 - Recreated
   - Brine
   
+  
+To check on unique horses
+- FL leg animation
+- Shadow animation
+- Dirt layer names and appearance
+  
+
 
