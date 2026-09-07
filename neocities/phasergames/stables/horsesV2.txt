@@ -6,10 +6,10 @@ Land/Air (BASE: Aurora)
   - Amor DONE
   - Anemone DONE
   - Angel DONE
-  - Aphaia
-  - Beran
-  - Blossom
-  - Ceres
+  - Aphaia DONE
+  - Beran DONE
+  - Blossom DONE
+  - Ceres (has necklace)
   - Chitra
   - Clio
   - Cosima (constant animation)
@@ -134,5 +134,4 @@ To check on unique horses
 - Shadow animation
 - Dirt layer names and appearance
   
-
 
